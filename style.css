@@ -1,0 +1,47 @@
+body {
+    width: 1000px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 100px;
+}
+#container {
+    margin: center;
+    background-color: lightgray;
+    border: gray;
+}
+p{
+    text-align: left;
+}
+.desktop {
+    width: 80%;
+    margin: auto;
+}
+.tablet {
+    width: 45%;
+    margin-left: 10%;
+    display: inline-block;
+
+}
+.mobile {
+    width: 30%;
+    margin-left: 5%;
+    display:inline-block;
+}
+.mobileView {
+    width: 20%;
+    float: left;
+}
+h1{
+    font-size: 250%;
+    margin: 10px;
+    text-align: center;
+}
+ h3 {
+    font-size: 150%;
+    margin: 10px;
+    text-align: left;
+}
+h2{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
